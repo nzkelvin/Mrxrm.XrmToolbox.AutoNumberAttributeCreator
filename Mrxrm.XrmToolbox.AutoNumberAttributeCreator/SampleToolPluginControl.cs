@@ -12,6 +12,10 @@ using XrmToolBox.Extensibility;
 
 namespace Mrxrm.XrmToolbox.AutoNumberAttributeCreator
 {
+    /// <summary>
+    /// Todo: 
+    /// * Deployment
+    /// </summary>
     public partial class SampleToolPluginControl : PluginControlBase
     {
         public SampleToolPluginControl()
